@@ -38,9 +38,10 @@ My expertise lies in designing and automating data workflows, ensuring **high av
 ✔️ Enable **self-service analytics** for stakeholders  
 ✔️ Expose data insights via **FastAPI, Flask & Django-based APIs**  
 
----
 
 <!--
+
+---
 ## 📌 Featured Projects  
 📊 **[Automated ETL Pipeline](GitHub Repo Link)** – **Apache Hop & Talend** orchestrating daily **data ingestion & transformation**  
 🔄 **[Real-time IoT Data Pipeline](GitHub Repo Link)** – Processing high-velocity sensor data with **Kafka & Snowflake**  
