@@ -1,16 +1,17 @@
 ## Hi there 👋  
-I am a **Data Engineer** passionate about building scalable data architectures and optimizing ETL pipelines. My expertise lies in designing and automating data workflows, ensuring **high availability, efficiency, and cost-effectiveness** for data platforms.  
+I am a **Data Engineer** passionate about building scalable data architectures and optimizing ETL pipelines.  
+My expertise lies in designing and automating data workflows, ensuring **high availability, efficiency, and cost-effectiveness** for data platforms.  
 
 ---
 
-## 🔥 Core Expertise  | I want to learn more about 😄
-🔹 **ETL & Data Integration** → Apache Hop, Talend, DBT
+## 🔥 Core Expertise | Areas of Interest 😄  
+🔹 **ETL & Data Integration** → Apache Hop, Talend, DBT  
 🔹 **Data Orchestration & Workflow Automation** → Apache Airflow, Prefect  
-🔹 **Data Warehousing & Storage** → Snowflake, Oracle, SQLServer, PostgreSQL, Oracle DWH, MongoDB  
+🔹 **Data Warehousing & Storage** → Snowflake, Oracle, SQL Server, PostgreSQL, Oracle DWH, MongoDB  
 🔹 **Big Data & Streaming** → Apache Kafka, Spark, Flink  
 🔹 **Cloud & DevOps** → AWS, Kubernetes, Docker, Terraform  
-🔹 **Programming & Scripting** → Python, SQL, Bash, Java, PHP
-🔹 **Web Frameworks & API Development** → Django, Flask, FastAPI, Spring, NextJs
+🔹 **Programming & Scripting** → Python, SQL, Bash, Java, PHP  
+🔹 **Web Frameworks & API Development** → Django, Flask, FastAPI, Spring, Next.js  
 🔹 **Data Visualization & Reporting** → Tableau, Power BI, Plotly  
 🔹 **CI/CD & Version Control** → Git, GitHub Actions, GitLab CI/CD  
 
@@ -25,12 +26,12 @@ I am a **Data Engineer** passionate about building scalable data architectures a
 💡 **Big Data & Streaming Architectures**  
 ✔️ Build **real-time data processing** pipelines using **Kafka, Spark & Flink**  
 ✔️ Implement **event-driven architectures** for **high-throughput analytics**  
-✔️ Ensure **data consistency, latency reduction, and fault tolerance**  
+✔️ Ensure **data consistency, low latency, and fault tolerance**  
 
 💡 **Cloud & Infrastructure as Code (IaC)**  
 ✔️ Deploy **data infrastructure** on **AWS using Kubernetes, Terraform & Docker**  
 ✔️ Optimize **data security, compliance, and governance** (GDPR, CCPA)  
-✔️ Improve **CI/CD pipelines for data workflows**  
+✔️ Enhance **CI/CD pipelines for data workflows**  
 
 💡 **Data Visualization & Insights**  
 ✔️ Develop **interactive dashboards & reports** using **Power BI, Tableau, Plotly**  
@@ -38,6 +39,7 @@ I am a **Data Engineer** passionate about building scalable data architectures a
 ✔️ Expose data insights via **FastAPI, Flask & Django-based APIs**  
 
 ---
+
 <!--
 ## 📌 Featured Projects  
 📊 **[Automated ETL Pipeline](GitHub Repo Link)** – **Apache Hop & Talend** orchestrating daily **data ingestion & transformation**  
@@ -45,13 +47,12 @@ I am a **Data Engineer** passionate about building scalable data architectures a
 🚀 **[Data Warehouse Optimization](GitHub Repo Link)** – Reduced query execution time by **50%** through indexing & partitioning  
 📈 **[Interactive BI Dashboard](GitHub Repo Link)** – Key business metrics visualized in **Power BI & Tableau**  
 🛠 **[API for Data Processing](GitHub Repo Link)** – REST API exposing ETL processes via **FastAPI**  
-
----
 -->
 
+---
+
 ## 📫 Let's Connect!  
-💼 **LinkedIn:** [https://www.linkedin.com/in/tsuala]  
-<!--🌐 **Portfolio:** [Your Website or Portfolio Link]  -->
-📩 **Email:** [tsualaflorian@gmail.com]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/tsuala](https://www.linkedin.com/in/tsuala)  
+📩 **Email:** [tsualaflorian@gmail.com](mailto:tsualaflorian@gmail.com)  
 
 💡 _Always exploring, always optimizing! Open to collaborations._ 🚀  
